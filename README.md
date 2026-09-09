@@ -1,4 +1,4 @@
-# Academic projects at Skoltech and MIPT
+# Academic projects and tasks at Skoltech and MIPT
 
 List of courses:
 - Numerical linear algebra (NLA)
