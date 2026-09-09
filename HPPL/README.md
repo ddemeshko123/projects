@@ -1,1 +1,3 @@
-# High performance python lab course
+# High performance python lab
+
+This course is devoted to learning how to use Python for High Performance Computing on different architectures – multi-core CPUs and general purpose GPUs. The course is oriented on practical knowledge, where the students will get a hands-on experience with Python code profiling, modern Python frameworks, such as Python MultiProcessing, Numba, Cython, mpi4py, PyCuda and others. Wide range of problem sets from linear algebra, image processing, deep learning, physics and engineering makes this course interesting and suitable for all levels of students from all CREIs. Students will also get the possibility to work on modern supercomputers.
